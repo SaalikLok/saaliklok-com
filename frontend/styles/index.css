@@ -40,4 +40,15 @@
 
 h1, h2, h3 {
   font-family: 'Reem Kufi', sans-serif;
+  margin-bottom: 0.7rem;
+}
+
+footer p {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.site-header {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 1.2rem;
 }
