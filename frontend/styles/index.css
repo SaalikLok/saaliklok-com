@@ -46,9 +46,28 @@ h1, h2, h3 {
 footer p {
   font-size: 0.8rem;
   text-align: center;
+  margin-bottom: 0.2rem;
 }
 
 .site-header {
   font-family: 'Reem Kufi', sans-serif;
   font-size: 1.2rem;
+}
+
+.favorite-things ul {
+  margin-top: 0.5rem;
+}
+
+.favorite-things li {
+  font-size: 0.85rem;
+}
+
+.footer-social-links {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  gap: 0.5rem;
+  font-size: 0.7rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
 }
