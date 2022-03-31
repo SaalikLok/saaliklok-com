@@ -41,7 +41,7 @@ bin/bridgetown deploy
 bin/bridgetown console
 
 # automatically spin up a new post, with today's date and preset frontmatter
-`bin/bridgetown apply automation/new_post.rb [new-post-name]`
+bin/bridgetown apply automation/new_post.rb [new-post-name]
 ```
 
 > Learn more: [Bridgetown CLI Documentation](https://www.bridgetownrb.com/docs/command-line-usage)

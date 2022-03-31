@@ -3,12 +3,7 @@ layout: page
 title: Blog
 ---
 
-<ul>
-  {% for post in collections.posts.resources %}
-    <li>
-      <a href="{{ post.relative_url }}">{{ post.data.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-If you have a lot of posts, you may want to consider adding [pagination](https://www.bridgetownrb.com/docs/content/pagination)!
+{% for post in collections.posts.resources %}
+  <h3><a href="{{ post.relative_url }}">{{ post.data.title }}</a></h3>
+  {{ post.data.description }}
+{% endfor %}
