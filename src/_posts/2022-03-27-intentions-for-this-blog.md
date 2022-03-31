@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Intentions for this blog"
+title:  Intentions for this blog
 date:   2022-03-27 08:33:58 -0500
 categories: musing
+description: Resetting intentions for writing on this new website.
 ---
 
 I’ve rewritten my website a few times in the past. I don’t think that’s because each iteration was drastically different. I think it’s because I’ve always struggled to capture the essence of myself in a set of screens. This latest iteration is no different. It’s closer to who I am now, and where I’m going, but it might keep evolving.

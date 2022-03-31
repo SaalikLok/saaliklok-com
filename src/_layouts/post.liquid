@@ -6,4 +6,8 @@ layout: default
 
 <div class="container">
   {{ content }}
+
+  <p class="post-date">Originally published {{ resource.data.date | date: "%m/%d/%Y" }}</p>
 </div>
+
+

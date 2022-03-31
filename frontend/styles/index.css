@@ -62,6 +62,10 @@ footer p {
   font-size: 0.85rem;
 }
 
+.post-date {
+  font-size: 0.75rem;
+}
+
 .footer-social-links {
   display: flex;
   justify-content: center;
