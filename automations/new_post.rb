@@ -3,9 +3,10 @@ title = args.last
 date = Date.today
 frontmatter_template = %{---
   layout: post
-  title:  "#{title}"
+  title:  #{title}
   date:   #{Time.now}
   categories: 
+  description: 
   ---}
 
 File.open("src/_posts/#{Time.now.strftime("%Y-%m-%d")}-#{title}.md", "w") do |f|
