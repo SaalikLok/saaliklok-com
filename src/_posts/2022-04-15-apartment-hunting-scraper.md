@@ -85,6 +85,8 @@ This project was not only fun, but it was also illustrative of the power of soft
 
 This project also had me reflecting on how my skills continue to grow, now that I develop software professionally. Something like this may have taken me considerably longer just a year ago, but now it’s become pretty easy. That makes me very excited about what things I’ll be conjuring up a year from now.
 
+The code is ✨ [open source](https://github.com/SaalikLok/apartment-availability).
+
 Finally, a question for future me, and you, reader. What’s something you’ve gotten better at this year? And what are some small problems that you can tackle?
 
 Until next time!
